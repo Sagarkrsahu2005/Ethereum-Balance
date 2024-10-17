@@ -84,9 +84,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Sagar - [@yourtwitter](https://x.com/Async_sagar)
+Sagar - [@Async_sagar](https://x.com/Async_sagar)
 
-Project Link: [https://github.com/yourusername/ethereum-balance-checker](https://github.com/Sagarkrsahu2005/Ethereum-Balance)
+Project Link: [https://github.com/Sagarkrsahu2005/Ethereum-Balance](https://github.com/Sagarkrsahu2005/Ethereum-Balance)
 
 ---
 
